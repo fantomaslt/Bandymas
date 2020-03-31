@@ -1,0 +1,6 @@
+cd direktorija
+cd.. iseiti is direktorijos 
+echo.> sukurti faila 
+start atidaryti faila 
+programos pavdinimas ir failo buvimo vieta c:/// 
+dir patikriname kas yra folderyje 
