@@ -4,3 +4,16 @@ echo.> sukurti faila
 start atidaryti faila 
 programos pavdinimas ir failo buvimo vieta c:/// 
 dir patikriname kas yra folderyje 
+
+
+
+
+--------------------------------- GIT ------------------------------------------
+Git init - inicijuoja respitorija
+git add filas. prideda 
+git add . prideda visus failus 
+git status patikrina 
+git commit - komitas 
+git log - 
+git diff - parodo neissaugota nauja informacija 
+git checkout pavadinimas.txt grazina i priesai buvusia failo verija 
