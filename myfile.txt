@@ -19,3 +19,4 @@ git diff - parodo neissaugota nauja informacija
 git checkout pavadinimas.txt grazina i priesai buvusia failo verija 
 git remote add bandymas  https://github.com/fantomaslt/bandymas.git sukuria linka su repozitorija 
 git push -u bandymas master - issiuncia failus i github
+git ignore  pazymime, ko nesiusti i github
