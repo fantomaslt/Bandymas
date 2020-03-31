@@ -1,6 +1,0 @@
-.idea/
-.idea
-FBR.jpg
-
-#cia yra komentaras 
-# *.txt visi txt failai neperkeliami 
